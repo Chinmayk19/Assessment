@@ -1,6 +1,5 @@
 "use client"
 import { useParams } from "next/navigation";
-// import styles from "./style.module.css";
 import { useEffect, useState } from "react";
 import PokemonDetails from "@/app/Components/pokemonDetails";
 
